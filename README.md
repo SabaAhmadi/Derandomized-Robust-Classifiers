@@ -1,4 +1,4 @@
-# Adversarial Robustness via Random Projection Filters
+# Derandomized Robust Classifiers
 
 # Paper available at [arXiv:2406.03458](https://arxiv.org/abs/2406.03458)
 
